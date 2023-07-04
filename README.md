@@ -3,7 +3,7 @@
 
  _Currently learning **the C++ language**_
 
- _Fun fact_ 😁 _: **Currently studying in 8th grade**_
+ _Fun fact_ 😁 _: **I'm studying in 8th grade**_
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marktyrkba&layout=compact)
