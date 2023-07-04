@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **makrtyrkba456@gmail.com**
 
-- 📄 Know about my experiences **I'm currently studying in 7th grade**
+- 📄 Know about my experiences **I'm currently studying in 8th grade**
 
 - ⚡ Fun fact **I think i'm a creep**
 
