@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋 There!</h1>
-<h3 align="center">I'm a beginner developer in the pre-junior stage C++ language.</h3>
+<h3 align="center" style="font-weight: 300;"><em>I'm a beginner developer in the pre-junior stage C++ language.</em></h3>
 
-- I’m currently learning **the C++ language**
 
-- How to reach me **makrtyrkba456@gmail.com**
+ _I’m currently learning **the C++ language**_
 
-- Know about my experiences **I'm currently studying in 8th grade**
-
-- Fun fact **I think i'm a creep**
+ _Fun fact😁: **I'm currently studying in 8th grade**_
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
