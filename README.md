@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mark Tyrkba</h1>
+<h1 align="center">Hi 👋 There!</h1>
 <h3 align="center">I'm a beginner developer in the pre-junior stage C++ language.</h3>
 
 - 🌱 I’m currently learning **the C++ language**
