@@ -3,12 +3,6 @@
 
  _Currently learning **the C++ language**_
 
- _Fun fact_ 😁 _: **I'm studying in 8th grade**_
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marktyrkba&layout=compact)
-
-
 <h3 align="center" style="font-weight: 300;"><em>My favorite Language , Apps. & Websites , OS , etc.</em></h3>
 
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/marktyrkba)
