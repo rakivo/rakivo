@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 There!</h1>
 <h3 align="center" style="font-weight: 300;"><em>I'm a beginner developer in the pre-junior stage C++ language.</em></h3>
 
- _I’m currently learning **the C++ language**_
+ _Currently learning **the C++ language**_
 
  _Fun fact_ 😁 _: **I'm currently studying in 8th grade**_
 
