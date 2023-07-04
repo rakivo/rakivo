@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 There!</h1>
 <h3 align="center" style="font-weight: 300;"><em>I'm a beginner developer in the pre-junior stage C++ language.</em></h3>
 
- _Currently learning **the C++ language**_
+ <p align="center"><em>Currently learning <strong>the C++ language</strong></em></p>
 
 <div align="center">
   <h3 style="font-weight: 300;"><em>My favorite Language, Apps. & Websites, OS, etc.</em></h3>
