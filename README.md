@@ -6,11 +6,10 @@
  <p align="center"><em>Currently studying in 8th grade</em></p>
 
 <div align="center">
-  <h3 style="font-weight: 300;"><em>My LeetCode & CodeWars Links , My spotify playlist.</em></h3>
+  <h3 style="font-weight: 300;"><em>My LeetCode & CodeWars Links</em></h3>
 
   <p align="center">
     <a href="https://www.leetcode.com/paink1ller/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
     <a href="https://www.codewars.com/users/painkilla"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars"></a>
-    <a href="https://open.spotify.com/user/31bgecbvduwhviiqkwjtqiuxqgay?si=63eefa577ab64bb0"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
   </p>
 </div>
