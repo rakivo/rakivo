@@ -6,7 +6,7 @@
  <p align="center"><em>Currently studying in 8th grade</em></p>
 
 <div align="center">
-  <h3 style="font-weight: 300;"><em>My main Language, My LeetCode & CodeWars Links , My spotify playlist , etc.</em></h3>
+  <h3 style="font-weight: 300;"><em>My main Language, My LeetCode & CodeWars Links , My spotify playlist.</em></h3>
 
   <p align="center">
     <a href="https://github.com/marktyrkba"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
