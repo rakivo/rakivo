@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋 There!</h1>
 <h3 align="center" style="font-weight: 300;"><em>I'm a beginner developer in the pre-junior stage C++ language.</em></h3>
 
+<h3 align="center"><em>Exploring , maybe learning C++ since march 2023.</em></h3>
+
  <p align="center"><em>Currently studying in 8th grade</em></p>
 
 <div align="center">
