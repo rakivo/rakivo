@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋 There!</h1>
-<h3 align="center" style="font-weight: 300;"><em>I'm a beginner developer in the pre-junior stage C++ language.</em></h3>
+<h3 align="center" style="font-weight: 300;"><em>I'm a beginner developer in the pre-junior stage C++ / Rust language.</em></h3>
 
-<h3 align="center"><em>Trying my best in learning C++ , started since march 2023.</em></h3>
+<h3 align="center"><em>Learning C++ since march 2023.</em></h3>
+<h3 align="center"><em>I'm learning Rust as well since november 2023.</em></h3>
 
- <p align="center"><em>Currently studying in 8th grade</em></p>
+<p align="center"><em>Currently studying in 8th grade</em></p>
 
 <div align="center">
   <h3 style="font-weight: 300;"><em>My LeetCode & CodeWars Links</em></h3>
