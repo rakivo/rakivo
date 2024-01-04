@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋 There!</h1>
+<h1 align="center">Hi</h1>
 <h3 align="center" style="font-weight: 300;"><em>I'm a beginner developer in the pre-junior stage C++ / Rust language.</em></h3>
 
-<h3 align="center"><em>Learning C++ since march 2023.</em></h3>
-<h3 align="center"><em>I'm learning Rust as well since november 2023.</em></h3>
+<h3 align="center"><em>Learning C++ since march 2023 and Rust since november 2023 .</em></h3>
 
 <p align="center"><em>Currently studying in 8th grade</em></p>
 
