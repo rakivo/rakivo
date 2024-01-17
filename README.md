@@ -8,7 +8,7 @@
 <section 
   style="margin: 10 auto; text-align: center;"
   align="center">
-  <li>Languages: <strong>C++, Rust, Typescript, Javascript</strong> </li>
+  <li>Languages: <strong>Rust, C++, Typescript, Javascript</strong> </li>
   <li>Frameworks | Libs: <strong>Actix web, Diesel, some ReactTS, some UE5</strong> </li>
   <li>DB's: <strong>PostgreSQL, MySQL</strong> </li>
 </section>
