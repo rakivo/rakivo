@@ -8,8 +8,8 @@
 <section 
   style="margin: 10 auto; text-align: center;"
   align="center">
-  <li>Languages | Libs: <strong>C++, Rust, Typescript, Javascript</strong> </li>
-  <li>Frameworks: <strong>Actix web, Diesel, some ReactTS, some UE5</strong> </li>
+  <li>Languages: <strong>C++, Rust, Typescript, Javascript</strong> </li>
+  <li>Frameworks | Libs: <strong>Actix web, Diesel, some ReactTS, some UE5</strong> </li>
   <li>DB's: <strong>PostgreSQL, MySQL</strong> </li>
 </section>
 
