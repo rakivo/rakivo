@@ -1,4 +1,4 @@
-<h3 align="center" style="font-weight: 300;"><em2>Pre beginner developer in the pre-junior stage C++ and Rust languages.</em2></h3>
+<h3 align="center" style="font-weight: 300;"><em2>Pre beginner developer in pre-junior stage C++ and Rust languages.</em2></h3>
 
 <section>
   <p align="center">C++ since March 2023, Rust since November 2023.</p>
