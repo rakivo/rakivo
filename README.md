@@ -1,7 +1,7 @@
 <h3 align="center" style="font-weight: 300;"><em2>Pre beginner developer in pre-junior stage C++ and Rust languages.</em2></h3>
 
 <section>
-  <p align="center">C++ since March 2023, Rust since November 2023.</p>
+  <p align="center">C++ since March 2023, Rust since November 2023, Some C since January 2024.</p>
   <p align="center">Currently studying in 8th grade</p>
 </section>
 
