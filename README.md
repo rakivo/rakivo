@@ -4,5 +4,5 @@
   <a href="https://www.codewars.com/users/marktyrkba"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="Codewars"></a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakivo&layout=compact"></img> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakivo&layout=compact&exclude_repo=rakivo/show"></img> 
 </p>
