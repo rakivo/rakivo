@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://github.com/rakivo?tab=repositories">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=rakivo&theme=tokyonight&show_icons=true&rank_icon=github" />
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakivo&layout=compact&langs_count=8&card_width=320&theme=tokyonight&show_icons=true&exclude_repo=.emacs.d,dotfiles" />
   </a>
 </p>
