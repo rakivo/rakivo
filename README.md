@@ -1,3 +1,3 @@
-I'm one of the few people that actually cares about Software 
+I try my best to be N+2!
 
 [rakivo.github.io/portfolio](https://rakivo.github.io/portfolio)
